@@ -24,7 +24,7 @@ for ( let i = 0; i < library.length; i++ ){
 			count++;  
 		}
 };
-
+}
 // Do not change the code below
 
 alert(numberOfBooksRead());
